@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SnapText</string>
+    <string name="title_activity_main">SnapText</string>
+    <string name="package_name">com.gokul.snaptext</string>
+    <string name="custom_url_scheme">com.gokul.snaptext</string>
+</resources>
